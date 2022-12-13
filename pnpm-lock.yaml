@@ -11,8 +11,6 @@ importers:
       '@rollup/plugin-json': ^5.0.1
       '@rollup/plugin-node-resolve': ^15.0.1
       '@rollup/plugin-replace': ^5.0.1
-      '@rollup/plugin-terser': ^0.1.0
-      '@types/hash-sum': ^1.0.0
       '@types/jest': ^29.2.2
       '@types/node': ^16.4.7
       '@typescript-eslint/parser': ^5.23.0
